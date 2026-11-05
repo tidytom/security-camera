@@ -1,0 +1,7 @@
+opencv-python
+numpy
+Pillow
+# security_camera_with_audio.py
+sounddevice
+# Optional, only for audio in security_camera_photos.py
+PyAudio

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+# Recordings this program writes (if the save folder is inside this project)
+SecurityRecordings/
+MotionCam/
+captures/
+photo_*.jpg
+video_*.avi
+audio_*.wav
+seg_*.avi
+seg_*.wav
+seg_*.mp4
